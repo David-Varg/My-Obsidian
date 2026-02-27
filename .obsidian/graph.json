@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:MOC",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "[\"estado\":\"dominado\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "[\"estado\":\"estudiando\"]",
+      "color": {
+        "a": 1,
+        "rgb": 7686143
+      }
+    },
+    {
+      "query": "[\"estado\":\"no terminado\"]",
+      "color": {
+        "a": 1,
+        "rgb": 4210752
+      }
+    },
+    {
+      "query": "[\"estado\":\"pendiente\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "file:Glosario",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "[\"estado\":\"Nunca se termina de aprender\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.17433155080214,
+  "lineSizeMultiplier": 2.27486631016043,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.05230091737499183,
+  "close": true
+}

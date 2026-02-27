@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9d72f842ed1958c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c9f78287d91c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b26cff33c58c4974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios/00_FUNDAMENTOS/00. Glosario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. Glosario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495e7b6cc1fd1f4d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e7979d6dca65c02d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "be988b3b58dd837d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "487c686b345ff654",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c662fa2a660db303",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "d36ec4e9cb4aaab1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "797fe1b1fb94c2e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a84378b3810b868",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "38ed84215428f31f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Estudios/00_FUNDAMENTOS/01. Anatomia de la Programación.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "01d1ef313fde1009",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Estudios/00_FUNDAMENTOS/01. Anatomia de la Programación.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "be7bf94ede9cc14c",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "templates:Insertar plantilla": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "bases:Crear nueva base": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "graph:Abrir vista gráfica": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b26cff33c58c4974",
+  "lastOpenFiles": [
+    "Estudios/00_FUNDAMENTOS/00. Glosario.md",
+    "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
+    "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
+    "Estudios/00_FUNDAMENTOS/03. Variables y Tipos de Datos.md",
+    "Estudios/00_FUNDAMENTOS/01. Anatomía de la Programación.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Complejidad Algorítmica/12. Notación Big-O.md",
+    "2025-big-o-notation.png",
+    "Assets",
+    "Estudios/99_MAPAS/Conceptuales/RoadMap_MOC.md",
+    "Estudios/99_MAPAS/12_MOC Soft Skills.md",
+    "Estudios/99_MAPAS/11_MOC Prompt Engineering.md",
+    "Estudios/99_MAPAS/10_MOC Matemáticas.md",
+    "Estudios/99_MAPAS/06_MOC Sistemas.md",
+    "Estudios/99_MAPAS/01_MOC Computer Science.md",
+    "Estudios/99_MAPAS/09_MOC Datos.md",
+    "Estudios/99_MAPAS/08_MOC Seguridad.md",
+    "Estudios/99_MAPAS/07_MOC DevOps_Cloud.md",
+    "Estudios/99_MAPAS/04_MOC BackEnd.md",
+    "Estudios/99_MAPAS/05_MOC Arquitectura.md",
+    "Estudios/99_MAPAS/03_MOC Web.md",
+    "Estudios/99_MAPAS/02_MOC Software Engineer.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/05. Estructuras de Datos.md",
+    "Estudios/99_MAPAS/00_MOC Fundamentos.md",
+    "Estudios/09_DATOS/03. Big-O aplicada a Bases de Datos.md",
+    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/16. Programación dinámica.md",
+    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/15. Divide AND Conquer.md",
+    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/14. Búsqueda.md",
+    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/13. Algoritmos de Ordenamiento.md",
+    "Estudios/99_MAPAS/Sin nombre",
+    "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/01. Modelos de Computación",
+    "Estudios/13_SOFT_SKILLS",
+    "Estudios/06_SISTEMAS/Sin nombre",
+    "Estudios/12_PROMPT_ENGINEERING",
+    "Excalidraw",
+    "Sin título.base",
+    "Estudios/99_MAPAS/Conceptuales",
+    "Templates"
+  ]
+}
