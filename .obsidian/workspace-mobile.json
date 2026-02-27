@@ -163,9 +163,29 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "36ec26d99885a9f0",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
+      },
+      {
+        "id": "4251b984214d92e2",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b26cff33c58c4974",
+  "active": "36ec26d99885a9f0",
   "lastOpenFiles": [
+    "Sin título.base",
     "Estudios/00_FUNDAMENTOS/00. Glosario.md",
+    "2026-02-27.md",
     "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
     "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
     "Estudios/00_FUNDAMENTOS/03. Variables y Tipos de Datos.md",
@@ -210,15 +232,12 @@
     "Estudios/09_DATOS/03. Big-O aplicada a Bases de Datos.md",
     "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/16. Programación dinámica.md",
     "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/15. Divide AND Conquer.md",
-    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/14. Búsqueda.md",
-    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/13. Algoritmos de Ordenamiento.md",
     "Estudios/99_MAPAS/Sin nombre",
     "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/01. Modelos de Computación",
     "Estudios/13_SOFT_SKILLS",
     "Estudios/06_SISTEMAS/Sin nombre",
     "Estudios/12_PROMPT_ENGINEERING",
     "Excalidraw",
-    "Sin título.base",
     "Estudios/99_MAPAS/Conceptuales",
     "Templates"
   ]
