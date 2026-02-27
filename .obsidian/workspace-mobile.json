@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98c9f78287d91c61",
+        "id": "95b2785e994e5c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b26cff33c58c4974",
+            "id": "6ca28e90a994bb42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios/00_FUNDAMENTOS/00. Glosario.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00. Glosario"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -131,7 +127,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Estudios/00_FUNDAMENTOS/00. Glosario.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,13 +140,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Estudios/00_FUNDAMENTOS/01. Anatomia de la Programación.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
           },
           "icon": "lucide-list",
-          "title": "Outline"
+          "title": "Esquema"
         }
       },
       {
@@ -185,7 +179,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "36ec26d99885a9f0",
+  "active": "6ca28e90a994bb42",
   "lastOpenFiles": [
+    "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
+    "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
     "Sin título.base",
     "Estudios/00_FUNDAMENTOS/00. Glosario.md",
     "2026-02-27.md",
-    "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
-    "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
     "Estudios/00_FUNDAMENTOS/03. Variables y Tipos de Datos.md",
     "Estudios/00_FUNDAMENTOS/01. Anatomía de la Programación.md",
     "Estudios/01_COMPUTER_SCIENCE/03. Complejidad Algorítmica/12. Notación Big-O.md",
