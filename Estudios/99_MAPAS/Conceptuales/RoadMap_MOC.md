@@ -16,8 +16,8 @@ GROUP BY file.folder AS Carpeta
 
 # 🧠 ROADMAP PROFESIONAL — Ingeniería de Software / Computer Science
 
-> Objetivo: Dominio estructural, no superficial.
-> Meta: Nivel profesional por encima del promedio.
+> **Objetivo**: Dominio estructural, no superficial.
+> **Meta**: Nivel profesional por encima del promedio.
 
 ---
 
@@ -64,10 +64,11 @@ Comprender qué ocurre debajo del código.
 
 ## 📁 10_MATEMATICAS
 - [[02. Lógica Proposicional]]
-- [[03. Teoría de Conjuntos]]
+- [[03. Lógica de Predicados]]
+- [[04. Teoría de Conjuntos]]
 - [[01. Matemática Discreta]]
-- [[08. Análisis básico de crecimiento]]
-- [[07. Matemática para Algoritmos]]
+- [[09. Análisis básico de crecimiento]]
+- [[08. Matemática para Algoritmos]]
 
 ### 🎯 Resultado esperado:
 Capacidad de razonar formalmente y entender complejidad.

@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca28e90a994bb42",
+            "id": "00d5976a75578128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Estudios/10_MATEMATICAS/01. Matemática Discreta.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "01. Matemática Discreta"
             }
           }
         ]
@@ -196,43 +200,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ca28e90a994bb42",
+  "active": "00d5976a75578128",
   "lastOpenFiles": [
     "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
+    "Estudios/10_MATEMATICAS/01. Matemática Discreta.md",
+    "Estudios/99_MAPAS/Conceptuales/RoadMap_MOC.md",
+    "Estudios/00_FUNDAMENTOS/08. Pensamiento Algorítmico.md",
+    "Estudios/10_MATEMATICAS/03. Lógica de Predicados.md",
+    "Estudios/11_LENGUAJES/00_CSS/1. Fundamentos y Selectores.md",
+    "Excalidraw/CSS estructure.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-04 13.20.20.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-04 13.19.07.excalidraw.md",
+    "Estudios/11_LENGUAJES/00_CSS",
+    "Estudios/00_FUNDAMENTOS/01. Anatomía de la Programación.md",
+    "Estudios/99_MAPAS/10_MOC Matemáticas.md",
+    "Estudios/10_MATEMATICAS/09. Análisis básico de crecimiento.md",
+    "Estudios/10_MATEMATICAS/08. Matemática para Algoritmos.md",
+    "Estudios/10_MATEMATICAS/07. Algebra lineal básica.md",
+    "Estudios/10_MATEMATICAS/06. Probabilidad Básica.md",
+    "Estudios/10_MATEMATICAS/05. Combinatoria.md",
+    "Estudios/10_MATEMATICAS/04. Teoría de Conjuntos.md",
+    "Estudios/06_SISTEMAS/07. Representación de Enteros.md",
+    "Estudios/06_SISTEMAS/10. Codificación de Texto.md",
+    "Sin título.md",
     "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
     "Sin título.base",
     "Estudios/00_FUNDAMENTOS/00. Glosario.md",
     "2026-02-27.md",
     "Estudios/00_FUNDAMENTOS/03. Variables y Tipos de Datos.md",
-    "Estudios/00_FUNDAMENTOS/01. Anatomía de la Programación.md",
     "Estudios/01_COMPUTER_SCIENCE/03. Complejidad Algorítmica/12. Notación Big-O.md",
     "2025-big-o-notation.png",
     "Assets",
-    "Estudios/99_MAPAS/Conceptuales/RoadMap_MOC.md",
     "Estudios/99_MAPAS/12_MOC Soft Skills.md",
-    "Estudios/99_MAPAS/11_MOC Prompt Engineering.md",
-    "Estudios/99_MAPAS/10_MOC Matemáticas.md",
-    "Estudios/99_MAPAS/06_MOC Sistemas.md",
-    "Estudios/99_MAPAS/01_MOC Computer Science.md",
-    "Estudios/99_MAPAS/09_MOC Datos.md",
-    "Estudios/99_MAPAS/08_MOC Seguridad.md",
-    "Estudios/99_MAPAS/07_MOC DevOps_Cloud.md",
-    "Estudios/99_MAPAS/04_MOC BackEnd.md",
-    "Estudios/99_MAPAS/05_MOC Arquitectura.md",
-    "Estudios/99_MAPAS/03_MOC Web.md",
-    "Estudios/99_MAPAS/02_MOC Software Engineer.md",
-    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/05. Estructuras de Datos.md",
-    "Estudios/99_MAPAS/00_MOC Fundamentos.md",
-    "Estudios/09_DATOS/03. Big-O aplicada a Bases de Datos.md",
-    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/16. Programación dinámica.md",
-    "Estudios/01_COMPUTER_SCIENCE/04. Diseño de Algoritmos/15. Divide AND Conquer.md",
     "Estudios/99_MAPAS/Sin nombre",
     "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/01. Modelos de Computación",
     "Estudios/13_SOFT_SKILLS",
     "Estudios/06_SISTEMAS/Sin nombre",
     "Estudios/12_PROMPT_ENGINEERING",
     "Excalidraw",
-    "Estudios/99_MAPAS/Conceptuales",
-    "Templates"
+    "Estudios/99_MAPAS/Conceptuales"
   ]
 }
