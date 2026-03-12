@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios/10_MATEMATICAS/01. Matemática Discreta.md",
+                "file": "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/06. Listas Enlazadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Matemática Discreta"
+              "title": "06. Listas Enlazadas"
+            }
+          },
+          {
+            "id": "8eb9b0aaa96c4365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/06. Listas Enlazadas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06. Listas Enlazadas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,38 +215,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "00d5976a75578128",
+  "active": "be7bf94ede9cc14c",
   "lastOpenFiles": [
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/05. Arreglos.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/06. Listas Enlazadas.md",
+    "Excalidraw/Linked List Normal.md",
+    "Estudios/02_INGENIERIA_SOFTWARE/01. Ciclo de Vida del Software (SPDC).md",
     "Estudios/10_MATEMATICAS/02. Lógica Proposicional.md",
-    "Estudios/10_MATEMATICAS/01. Matemática Discreta.md",
-    "Estudios/99_MAPAS/Conceptuales/RoadMap_MOC.md",
-    "Estudios/00_FUNDAMENTOS/08. Pensamiento Algorítmico.md",
-    "Estudios/10_MATEMATICAS/03. Lógica de Predicados.md",
-    "Estudios/11_LENGUAJES/00_CSS/1. Fundamentos y Selectores.md",
-    "Excalidraw/CSS estructure.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-04 13.20.20.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-04 13.19.07.excalidraw.md",
-    "Estudios/11_LENGUAJES/00_CSS",
-    "Estudios/00_FUNDAMENTOS/01. Anatomía de la Programación.md",
-    "Estudios/99_MAPAS/10_MOC Matemáticas.md",
-    "Estudios/10_MATEMATICAS/09. Análisis básico de crecimiento.md",
-    "Estudios/10_MATEMATICAS/08. Matemática para Algoritmos.md",
-    "Estudios/10_MATEMATICAS/07. Algebra lineal básica.md",
-    "Estudios/10_MATEMATICAS/06. Probabilidad Básica.md",
-    "Estudios/10_MATEMATICAS/05. Combinatoria.md",
-    "Estudios/10_MATEMATICAS/04. Teoría de Conjuntos.md",
-    "Estudios/06_SISTEMAS/07. Representación de Enteros.md",
-    "Estudios/06_SISTEMAS/10. Codificación de Texto.md",
-    "Sin título.md",
+    "Excalidraw/Drawing 2026-03-09 14.29.15.excalidraw.md",
+    "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/04. Punteros.md",
+    "Estudios/11_LENGUAJES/01_JavaScript/Arrays JS.md",
     "Estudios/00_FUNDAMENTOS/02. Binario y Lógica.md",
+    "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/02. Stack vs. Heap (Control de Memoria Profunda).md",
+    "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/03. Representación de Datos Complejos.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/13. Árboles → Tries.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/12. Árboles → Heaps.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/11. Árboles.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/10. Tablas Hash.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/15. Complejidad Algorítmica.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/16. Notación Big-O.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/17. Algoritmos de Ordenamiento.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/18. Algorítmos de Búsqueda.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/19. Algoritmos Greedy (Voraces).md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/20. Backtracking.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/21. Divide AND Conquer.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/22. Recursión.md",
+    "Estudios/01_COMPUTER_SCIENCE/03. Diseño de Algoritmos/23. Programación dinámica.md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/08. Colas (Queues).md",
+    "Estudios/01_COMPUTER_SCIENCE/02. Estructuras de Datos/07. Pilas (Stacks).md",
+    "Estudios/11_LENGUAJES/00_CSS",
     "Sin título.base",
-    "Estudios/00_FUNDAMENTOS/00. Glosario.md",
-    "2026-02-27.md",
-    "Estudios/00_FUNDAMENTOS/03. Variables y Tipos de Datos.md",
-    "Estudios/01_COMPUTER_SCIENCE/03. Complejidad Algorítmica/12. Notación Big-O.md",
     "2025-big-o-notation.png",
     "Assets",
-    "Estudios/99_MAPAS/12_MOC Soft Skills.md",
     "Estudios/99_MAPAS/Sin nombre",
     "Estudios/01_COMPUTER_SCIENCE/01. Fundamentos Teóricos/01. Modelos de Computación",
     "Estudios/13_SOFT_SKILLS",

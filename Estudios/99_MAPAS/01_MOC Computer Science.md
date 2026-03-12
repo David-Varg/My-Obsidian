@@ -7,22 +7,22 @@
 - [[03. Church-Turing Thesis]] – La frontera de lo que una computadora puede (y no puede) hacer.
 
 ## 🏗️ Fundamentos Teóricos & Memoria
-- [[02. Recursión]]
-- [[03. Stack vs. Heap (Control de Memoria Profunda)]]
-- [[04. Representación de Datos Complejos]]
+- [[22. Recursión]]
+- [[02. Stack vs. Heap (Control de Memoria Profunda)]]
+- [[03. Representación de Datos Complejos]]
 
 ## 📊 Estructuras de Datos
-- [[05. Estructuras de Datos]] (Introducción)
-- Lineales y Hash: [[08. Tablas Hash]]
-- Jerárquicas: [[07. Arboles]] | [[10. Tries]]
-- Prioridad y Relaciones: [[09. Heaps]] | [[06. Grafos]]
+- [[05. Arreglos]] (Introducción)
+- Lineales y Hash: [[10. Tablas Hash]]
+- Jerárquicas: [[11. Árboles]] | [[13. Árboles → Tries]]
+- Prioridad y Relaciones: [[12. Árboles → Heaps]] | [[09. Grafos]]
 
 ## ⏱️ Análisis de Algoritmos
-- [[11. Complejidad Algorítmica]]
-- [[12. Notación Big-O]]
+- [[15. Complejidad Algorítmica]]
+- [[16. Notación Big-O]]
 
 🧠 Diseño de Algoritmos
-- [[13. Algoritmos de Ordenamiento]]
-- [[14. Búsqueda]]
-- [[15. Divide AND Conquer]]
-- [[16. Programación dinámica]]
+- [[17. Algoritmos de Ordenamiento]]
+- [[18. Algorítmos de Búsqueda]]
+- [[21. Divide AND Conquer]]
+- [[23. Programación dinámica]]

@@ -52,8 +52,8 @@ Entender qué es programar sin depender de un lenguaje.
 - [[04. Arquitectura de Computadoras]]
 
 ## 📁 01_COMPUTER_SCIENCE / Fundamentos Teóricos
-- [[03. Stack vs. Heap (Control de Memoria Profunda)]]
-- [[04. Representación de Datos Complejos]]
+- [[02. Stack vs. Heap (Control de Memoria Profunda)]]
+- [[03. Representación de Datos Complejos]]
 
 ### 🎯 Resultado esperado:
 Comprender qué ocurre debajo del código.
@@ -78,7 +78,7 @@ Capacidad de razonar formalmente y entender complejidad.
 # 🔴 FASE 4 — Fundamentos Teóricos de Computación
 
 ## 📁 01_COMPUTER_SCIENCE / Fundamentos Teóricos
-- [[02. Recursión]]
+- [[22. Recursión]]
 - [[01. Modelos de Computación]]
 
 ### Dentro de Modelos:
@@ -87,8 +87,8 @@ Capacidad de razonar formalmente y entender complejidad.
 - [[03. Church-Turing Thesis]]
 
 ## 📁 01_COMPUTER_SCIENCE / Complejidad Algorítmica
-- [[11. Complejidad Algorítmica]]
-- [[12. Notación Big-O]]
+- [[15. Complejidad Algorítmica]]
+- [[16. Notación Big-O]]
 
 ### 🎯 Resultado esperado:
 Entender qué es computable y qué es eficiente.
@@ -98,18 +98,18 @@ Entender qué es computable y qué es eficiente.
 # 🟡 FASE 5 — Estructuras de Datos y Diseño de Algoritmos
 
 ## 📁 Estructuras de Datos
-- [[05. Estructuras de Datos]]
-- [[06. Grafos]]
-- [[07. Arboles]]
-- [[08. Tablas Hash]]
-- [[09. Heaps]]
-- [[10. Tries]]
+- [[05. Arreglos]]
+- [[09. Grafos]]
+- [[11. Árboles]]
+- [[10. Tablas Hash]]
+- [[12. Árboles → Heaps]]
+- [[13. Árboles → Tries]]
 
 ## 📁 Diseño de Algoritmos
-- [[14. Búsqueda]]
-- [[13. Algoritmos de Ordenamiento]]
-- [[15. Divide AND Conquer]]
-- [[16. Programación dinámica]]
+- [[18. Algorítmos de Búsqueda]]
+- [[17. Algoritmos de Ordenamiento]]
+- [[21. Divide AND Conquer]]
+- [[23. Programación dinámica]]
 
 ### 🎯 Resultado esperado:
 Resolver problemas complejos con criterio estructural.

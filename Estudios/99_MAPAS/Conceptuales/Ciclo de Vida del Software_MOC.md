@@ -1,5 +1,5 @@
 1. El Flujo de Ejecución (Fundamentos + CS + Lenguajes)
-Para que un programa funcione, la [[Sintaxis JS]] de JS se procesa según el [[09. Modelos de Ejecución]], gestionando datos en el [[03. Stack vs. Heap (Control de Memoria Profunda)]] mediante [[03. Variables y Tipos de Datos]].
+Para que un programa funcione, la [[Sintaxis JS]] de JS se procesa según el [[09. Modelos de Ejecución]], gestionando datos en el [[02. Stack vs. Heap (Control de Memoria Profunda)]] mediante [[03. Variables y Tipos de Datos]].
 
 2. De la Idea al Despliegue (Ingeniería + Arquitectura + DevOps)
 El [[01. Ciclo de Vida del Software (SPDC)]] requiere definir una [[08. Clean Architecture]] que se automatiza mediante [[02. CI-CD]] y se empaqueta en [[01. Docker]].
